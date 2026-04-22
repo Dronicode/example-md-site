@@ -21,3 +21,6 @@ icon: lucide/rocket
 
 6. Push to GitHub  
    `git push -u origin main`
+
+7. Enjoy the finished result  
+   https://dronicode.github.io/my-project/
